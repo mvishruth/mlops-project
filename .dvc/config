@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = vm-s3bucket
 ['remote "myremote"']
     url = E:\datasets\insurance-dataset
+['remote "vm-s3bucket"']
+    url = s3://vm-s3bucket/mlops/
