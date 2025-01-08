@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/muthyalv/OneDrive - Hewlett Packard Enterprise/Projects/GitHub-Enterprise-VM/mlops-project/mlruns/987849116712156401/08e90b37e16f4f679df2fd9baa8417fa/artifacts
+end_time: 1736262843137
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 08e90b37e16f4f679df2fd9baa8417fa
+run_name: funny-shark-796
+run_uuid: 08e90b37e16f4f679df2fd9baa8417fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736262827572
+status: 3
+tags: []
+user_id: muthyalv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/cd17d214889a40d7973a8dafe6d7db17/artifacts
+end_time: 1736237941059
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: cd17d214889a40d7973a8dafe6d7db17
+run_name: persistent-pug-869
+run_uuid: cd17d214889a40d7973a8dafe6d7db17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736237925753
+status: 4
+tags: []
+user_id: muthyalv

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736262843118
+current_stage: None
+description: null
+last_updated_timestamp: 1736262843118
+name: insurance_model
+run_id: 08e90b37e16f4f679df2fd9baa8417fa
+run_link: null
+source: file:///C:/Users/muthyalv/OneDrive - Hewlett Packard Enterprise/Projects/GitHub-Enterprise-VM/mlops-project/mlruns/987849116712156401/08e90b37e16f4f679df2fd9baa8417fa/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/muthyalv/OneDrive - Hewlett Packard Enterprise/Projects/GitHub-Enterprise-VM/mlops-project/mlruns/987849116712156401/08e90b37e16f4f679df2fd9baa8417fa/artifacts/model
+user_id: null
+version: 3
